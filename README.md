@@ -29,7 +29,7 @@
 超伝導転移温度 \(T_c\) は、high-Tc 実験テキストに基づき、
 以下の 3 種類の定義を用いて評価している。
 
-- \(T_{c,\mathrm{onset}}\)：抵抗が常伝導状態から減少し始める温度  
+- \T_{c,\mathrm{onset}}\：抵抗が常伝導状態から減少し始める温度  
 - \(T_{c,\mathrm{mid}}\)：転移領域における抵抗の中間値をとる温度  
 - \(T_{c,\mathrm{zero}}\)：抵抗が測定限界以下となる温度  
 
@@ -39,8 +39,8 @@ Jupyter Notebook では、これらの温度を R–T 曲線から数値的に�
 ---
 
 ## ファイル構成
-- `*.ipynb`  
-  [超伝導転移温度を推定するための Jupyter Notebook ファイル ] (https://github.com/kyoka1013/superconductivity/blob/main/%E8%B6%85%E4%BC%9D%E5%B0%8E_%E8%A7%A3%E6%9E%90_%E5%AE%8C%E6%88%90%E7%89%88.ipynb)
-  * 転移温度を推定するためのJupyter Notebookファイルです。
+ `*.ipynb`  
+  [超伝導転移温度を推定するための Jupyter Notebook ファイル ](https://github.com/kyoka1013/superconductivity/blob/main/%E8%B6%85%E4%BC%9D%E5%B0%8E_%E8%A7%A3%E6%9E%90_%E5%AE%8C%E6%88%90%E7%89%88.ipynb)
+   転移温度を推定するためのJupyter Notebookファイルです。
 
 
